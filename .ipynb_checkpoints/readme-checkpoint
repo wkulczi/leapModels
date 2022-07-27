@@ -1,0 +1,3 @@
+`varShapeRawCropped` will be a model sketch that does NOT have an `input_shape` specified in the first layer (all the images in batches are unified with padding based on one of the dimensions)
+
+`fixedShapeX` will use one the data shapes provided by the `leapDataParser/1unifyImages`
